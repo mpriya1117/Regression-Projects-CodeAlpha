@@ -1,41 +1,37 @@
-# Sales Prediction using Python 📈
+# Regression Projects – CodeAlpha 
 
 ## Internship
-CodeAlpha – Data Science Internship  
-Task 4: Sales Prediction
+CodeAlpha – Data Science Internship
 
-## Objective
-To predict future sales based on advertising spend across different platforms
-and analyze how marketing strategies impact sales outcomes.
+This repository contains regression-based machine learning projects
+completed as part of the internship.
 
-## Dataset
-- Advertising dataset (CSV file provided)
-- Features: TV, Radio, Newspaper (advertising platforms)
-- Target: Sales
+---
 
-## Technologies Used
+## 📌 Task 3: Car Price Prediction
+- Objective: Predict car selling prices using vehicle features.
+- Techniques: Data preprocessing, regression modeling, evaluation.
+- Dataset: Car price dataset (CSV).
+
+---
+
+## 📌 Task 4: Sales Prediction using Python
+- Objective: Predict sales based on advertising spend.
+- Features: TV, Radio, Newspaper advertising.
+- Techniques: Feature selection, regression analysis, business insights.
+
+---
+
+## 🛠 Technologies Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-## Methodology
-- Data cleaning and transformation
-- Feature selection
-- Correlation analysis
-- Regression modeling
-- Feature impact analysis
+---
 
-## Results
-The regression model achieved strong predictive performance.
-TV and Radio advertising showed the highest impact on sales.
-
-## Business Insights
-- Increased TV and Radio advertising significantly boosts sales.
-- Newspaper advertising has relatively lower influence.
-- Marketing budgets should prioritize high-impact platforms.
-
-## Conclusion
-This project demonstrates how data-driven insights can support
-effective business marketing strategies.
+##  Conclusion
+These projects demonstrate practical application of regression models
+to solve real-world business problems using data-driven approaches.
